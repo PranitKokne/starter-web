@@ -16,3 +16,6 @@ This is a simple project so deployment can be on any web server.
 
 ## how to contribute
 
+### copyright
+2018 git.traning/PranitKokne
+
