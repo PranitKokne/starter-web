@@ -8,7 +8,11 @@ This is a simple way to show different parts of git repository.
 
 ## purpose 
 
+As stated above, the purpose is to show basic git commands.
+
 ## deployment
+
+This is a simple project so deployment can be on any web server.
 
 ## how to contribute
 
