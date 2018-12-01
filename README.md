@@ -15,6 +15,7 @@ As stated above, the purpose is to show basic git commands.
 This is a simple project so deployment can be on any web server.
 
 ## how to contribute
+Please fork this repository and make a push request for review
 
 ### copyright
 2018 git.traning/PranitKokne
